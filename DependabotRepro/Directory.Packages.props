@@ -5,6 +5,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="AspNetCore.HealthChecks.Rabbitmq" Version="5.0.2" />
-    <PackageVersion Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="5.0.17" />
+    <PackageVersion Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="6.0.2" />
   </ItemGroup>
 </Project>
